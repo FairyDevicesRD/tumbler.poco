@@ -11,4 +11,4 @@ Applied Patch
 
 https://github.com/pocoproject/poco/commit/08a748dae166e9aa735ae90fc5d91a420dc132f2
 
-Shared libraries in `/lib` are built for Tumbler's ARM Cortex-A53 architecture with neon-fp-armv8 extension.
+Shared libraries in `/lib` are built for ARM Cortex-A53 architecture with neon-fp-armv8 extension.
