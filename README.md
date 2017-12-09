@@ -1,5 +1,5 @@
 # tumbler.poco
-Tumbler pre-installed patched Poco C++ Libraries pre-build binaries. This repositories is published under [Boost Software License](https://spdx.org/licenses/BSL-1.0) in accordance with Poco's license.
+Tumbler pre-installed patched Poco C++ Libraries pre-build binaries. This repository is published under [Boost Software License](https://spdx.org/licenses/BSL-1.0) in accordance with Poco's license.
 
 ## Pre-build patched Poco C++ Libraries 1.7.8-all
 
